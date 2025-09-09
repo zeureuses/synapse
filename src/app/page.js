@@ -98,7 +98,7 @@ export default function Home() {
         </div>
       </main>
 
-      <footer className="items-center flex flex-col w-[70%] md:w-[40%] mx-auto h-fit justify-center mt-[1rem] uppercase pb-[1rem] pt-[1rem] border-x-0 border-b-0 border border-[#00d388]">
+      <footer className="items-center flex flex-col w-[70%] md:w-[40%] mx-auto justify-center mt-[1rem] uppercase pb-[1rem] pt-[1rem] border-x-0 border-b-0 border border-[#00d388] md:mt-[8rem]">
         <div className="w-full max-w-2xl mx-auto">
           <div className="flex flex-col text-[#00d388] text-[0.7rem] tracking-widest text-center w-full">
             <TextScrambler className="w-full flex flex-col items-center">
