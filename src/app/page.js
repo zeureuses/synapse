@@ -21,17 +21,17 @@ export default function Home() {
           <nav className="site-nav text-[0.8rem] mt-[0.3rem] mb-[0.3rem] underline uppercase items-center">
             <TextScrambler className="">
 
-              <Link href="https://nextjs.org" target="_blank" rel="noopener noreferrer" className="py-0.5 px-3 transition-colors hover:bg-[#00d388] hover:text-black hover:border-black">
+              <Link href="https://synapse-coin.gitbook.io/synapse-coin-docs/" target="_blank" rel="noopener noreferrer" className="py-0.5 px-3 transition-colors hover:bg-[#00d388] hover:text-black hover:border-black">
                 DOCS
               </Link>
 
-              <Link href="https://github.com/SYNAPSE-COIN" target="_blank" rel="noopener noreferrer" className="py-0.5 px-3 transition-colors hover:bg-[#00d388] hover:text-black hover:border-black">
+              <Link href="https://github.com/Synapse-HQ-888" target="_blank" rel="noopener noreferrer" className="py-0.5 px-3 transition-colors hover:bg-[#00d388] hover:text-black hover:border-black">
                 DEVROOM
               </Link>
 
-              <Link href="https://nextjs.org" target="_blank" rel="noopener noreferrer" className="py-0.5 px-3 transition-colors hover:bg-[#00d388] hover:text-black hover:border-black">
+              {/* <Link href="https://nextjs.org" target="_blank" rel="noopener noreferrer" className="py-0.5 px-3 transition-colors hover:bg-[#00d388] hover:text-black hover:border-black">
                 CHART
-              </Link>
+              </Link> */}
 
               <Link href="https://t.me/SYNAPSE_COIN" target="_blank" rel="noopener noreferrer" className="py-0.5 px-3 transition-colors hover:bg-[#00d388] hover:text-black hover:border-black">
                 TELEGRAM
