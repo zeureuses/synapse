@@ -25,7 +25,7 @@ export default function Home() {
                 DOCS
               </Link>
 
-              <Link href="https://github.com/Synapse-HQ-888" target="_blank" rel="noopener noreferrer" className="py-0.5 px-3 transition-colors hover:bg-[#00d388] hover:text-black hover:border-black">
+              <Link href="https://github.com/Synapse-Coin-HQ-888" target="_blank" rel="noopener noreferrer" className="py-0.5 px-3 transition-colors hover:bg-[#00d388] hover:text-black hover:border-black">
                 DEVROOM
               </Link>
 
